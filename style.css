@@ -1,0 +1,26 @@
+table td, table th {
+    border: 1px solid black;
+    padding: 0.5rem 0.75rem;
+}
+
+.tabla1 {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+  }
+  
+  
+  .table2 {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+  }
+  
+  
+  
+  .tdd, .thh {
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
